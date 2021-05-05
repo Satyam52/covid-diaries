@@ -1,0 +1,28 @@
+.content {
+  /* max-width: 768px; */
+  margin: 1rem !important;
+}
+
+.parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.child {
+  display: flex;
+  flex-direction: column;
+}
+.storyTitle {
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  color: rgba(41, 41, 41, 1);
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  font-size: 1.3vw;
+}
+
+@media (max-width: 1100px) {
+  .storyTitle {
+    font-size: 2vw;
+  }
+}
