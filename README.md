@@ -9,4 +9,7 @@
 4. `npm run start`
 
 
-Backend Part of this project : https://github.com/Satyam52/covid_safar_backend
+[![alt text](http://url/to/img.png)](https://raw.githubusercontent.com/Satyam52/covid-safar/main/safar.png)
+
+
+Backend Part of this project: https://github.com/Satyam52/covid_safar_backend
