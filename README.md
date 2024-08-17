@@ -9,7 +9,7 @@
 4. `npm run start`
 
 
-[![alt text](http://url/to/img.png)](https://raw.githubusercontent.com/Satyam52/covid-safar/main/safar.png)
+![alt text](https://raw.githubusercontent.com/Satyam52/covid-safar/main/safar.png)
 
 
 Backend Part of this project: https://github.com/Satyam52/covid_safar_backend
