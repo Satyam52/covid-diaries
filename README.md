@@ -1,3 +1,5 @@
+# COVID Safar
+
 ### This repository contains the frontend code of COVID Safar developed in React.
 
 ## To run the code
